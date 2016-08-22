@@ -2,7 +2,6 @@
 
 
 
-
 ## Installation of Required Software for Viewing the Notebookes
 
 Find and download the right version of 
@@ -55,7 +54,7 @@ conda install seaborn
 + `cd` to your favorite folder.
 + Then, type:
 ```
-git clone https://github.com/PredictiveScienceLab/uq-course.git
+git clone https://github.com/PredictiveScienceLab/MA265.git
 ```
 + This will download the contents of this repository in a folder called `MA265`.
 + Enter the ``MA265`` folder:
